@@ -19,7 +19,7 @@ export const BUSINESS = {
   // TODO: confirm whether Boston leads go to this inbox or a separate one.
   email: "eastwickexternalservices@gmail.com",
   /** Sender address for lead emails. The domain must be verified in Resend. */
-  emailFrom: "noreply@TODO_BOSTON_DOMAIN",
+  emailFrom: "noreply@boston.eastwickexternalservices.org",
   phoneDisplay: "TODO_BOSTON_PHONE",
   /** E.164, e.g. +16175550123. Drives the tel: and sms: links. */
   phoneE164: "TODO_BOSTON_PHONE_E164",
